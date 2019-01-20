@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SOCIAL LOGIN</string>
+    <!--<string name="default_web_client_id"></string>-->
+
+
+    <string name="facebook_app_id">623668004742503</string>
+    <string name="fb_login_protocol_scheme">fb623668004742503</string>
+
+</resources>
